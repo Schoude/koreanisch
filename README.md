@@ -2,8 +2,8 @@
 home: true
 heroText:
 tagline:
-actionText: Zur Kategorieauswahl →
-actionLink: /kategorien/
+actionText: Zur Sektionsauswahl →
+actionLink: /sektionen/
 features:
     - title: Handverlesene Grammatik
       # details: Minimal setup with markdown-centered project structure helps you focus on writing.
@@ -13,3 +13,7 @@ features:
       # details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
 footer: Zusammengestellt von Marc Baque — 2019
 ---
+
+::: warning HINWEIS
+Die hier verwendete Sektionierung ist aus dem Ursprungsdokument übernommen. Es ist derzeit noch **keine** Kategorisierung nach grammatikalischen Themenbereichen vorhanden. Diese wird, je nach Lust des Autors, im Laufe der Zeit ergänzt. Deshalb bitte die **Suchfunktion** benutzen!
+:::

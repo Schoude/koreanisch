@@ -1,10 +1,10 @@
 ---
-pageClass: kat3
+pageClass: sek3
 ---
 
-# Kategorie 3
+# Sektion 3
 
-Willkommen in Kategorie 3!
+Willkommen in Sektion 3!
 
 ## 동사+곤 하다 (고는 하다 = Langform)
 

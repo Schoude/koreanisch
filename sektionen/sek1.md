@@ -1,10 +1,10 @@
 ---
-pageClass: kat2
+pageClass: sek1
 ---
 
-# Kategorie 2
+# Sektion 1
 
-Willkommen in Kategorie 2!
+Willkommen in Sektion 1!
 
 ## 동사+곤 하다 (고는 하다 = Langform)
 

@@ -10,32 +10,36 @@ module.exports = {
 				link: '/'
 			},
 			{
-				text: 'Kategorien',
+				text: 'Sektionen',
 				items: [
 					{
-						text: 'Kategorie 1',
-						link: '/kategorien/kat1'
+						text: 'Sektion 1',
+						link: '/sektionen/sek1'
 					},
 					{
-						text: 'Kategorie 2',
-						link: '/kategorien/kat2'
+						text: 'Sektion 2',
+						link: '/sektionen/sek2'
 					},
 					{
-						text: 'Kategorie 3',
-						link: '/kategorien/kat3'
+						text: 'Sektion 3',
+						link: '/sektionen/sek3'
 					}
 				]
+			},
+			{
+				text: 'Lernressroucen',
+				link: '/ressourcen.html'
 			},
 			{
 				text: 'Über den Autor',
 				link: '/autor.html'
 			}
 		],
-		/* 'auto' */
 
 		sidebar: 'auto'
 		// {
-		// 	'/kategorien/': ['', 'kat1', 'präteritum']
+		// 	'/sektionen/': [''],
+		// 	'/sektionen/sek1.html': ['']
 		// }
 	}
 }
