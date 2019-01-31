@@ -2,7 +2,12 @@ module.exports = {
 	title: 'Koreanische Grammatik',
 	description:
 		'Eine (derzeit) lose Zusammenstellung an koreanischer Grammatik mit Beispielsätzen.',
-	serviceWorker: true,
+	serviceWorker: {
+		updatePopup: {
+			message: 'Es sind neue Inhalte verfügbar!',
+			buttonText: 'Neu laden!'
+		}
+	},
 	themeConfig: {
 		nav: [
 			{
