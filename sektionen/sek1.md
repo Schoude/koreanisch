@@ -231,7 +231,7 @@ Es ist schade, dass es die Grundschule, die ich früher besucht habe, heute nich
 ## 동사+ㄴ/는다면
 
 ::: tip Erklärung
-benutzt man, wenn man etwas annimmt oder vermutet. Der Ausgang ist aber eher ungewisse. Oft gefolgt von einer Frage. Bei aktiven Verben muss man ㄴ/는다면 benutzen.
+benutzt man, wenn man etwas annimmt oder vermutet. Der Ausgang ist aber eher ungewiss. Oft gefolgt von einer Frage. Bei aktiven Verben muss man ㄴ/는다면 benutzen.
 :::
 
 만약 이번 여름에 같이 휴가를 **간다면** 어디로 가고 싶어?  
