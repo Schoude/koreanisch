@@ -2,8 +2,8 @@ module.exports = {
 	title: 'Koreanische Grammatik',
 	description:
 		'Eine (derzeit) lose Zusammenstellung an koreanischer Grammatik mit Beispielsätzen.',
+	serviceWorker: true,
 	themeConfig: {
-		serviceWorker: true,
 		nav: [
 			{
 				text: 'Home',
