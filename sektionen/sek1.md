@@ -18,7 +18,7 @@ Wir haben uns meistens von der Schule/Uni in der Buchhandlung getroffen
 준수는 가끔 그것에 **가곤 했어요**.  
 Junsu ist früher oft an diesen Ort gegangen.
 
-저는 할머니께 어린 시절 이야기를 **돋곤 했어요**.  
+저는 할머니께 어린 시절 이야기를 **듣곤 했어요**.  
 Ich habe früher oft Geschichten meiner Oma aus ihrer Kindheit zugehört.
 
 ---
@@ -86,7 +86,7 @@ Trotzdem möchte ich auch Zeit für mich haben.
 좀 조용히 해 주세요. 저 지금 시험 **공부하거든요**.  
 Könnte Sie etwas leiser sein? Wissen Sie, ich lerne gerade für eine Prüfung.
 
-가: 저 배우는 인기가 많은 것 같아요.  
+가: 저 가수는 인기가 많은 것 같아요.  
 Der Sängers/Schauspieler ist berühmt glaube ich  
 나: 네, 노래를 잘 **부르거든요**.  
 Klar, er singt ja auch schön.
