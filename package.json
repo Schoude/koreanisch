@@ -4,6 +4,7 @@
 	"description": "Vuepress static site über koreanische Grammatik",
 	"scripts": {
 		"dev": "vuepress dev",
+		"build": "vuepress build",
 		"docs:build": "vuepress build docs"
 	},
 	"repository": {
