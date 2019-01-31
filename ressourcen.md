@@ -8,7 +8,8 @@ sidebar: false
 
 ### 1. Online-Kurse
 
--   [Talk to me in Korean](https://talktomeinkorean.com/) [TTMIK auf Youtube](https://www.youtube.com/user/talktomeinkorean)
+-   [Talk to me in Korean](https://talktomeinkorean.com/)  
+    [TTMIK auf Youtube](https://www.youtube.com/user/talktomeinkorean)
 -   [Cyber University of Korea](http://korean.cuk.edu/en/)
 
 ### 2. Wörterbücher und Übersetzer
@@ -16,6 +17,10 @@ sidebar: false
 -   [Naver Dictionary](http://dedic.naver.com/#/main)
 -   [Papago](https://papago.naver.com/)  
     _von beiden gibt es auch eine App._
+
+### 3. Vorbereitungsmaterialien für den <abbr title="Test of Proficiency in Korean"> TOPIK</abbr>
+
+-   [TOPIK GUIDE](https://www.topikguide.com/topik-overview/) — Hier gibt es allgemeine Informationen zum Aufbau des Tests und auch Tests aus vorherigen Jahren als Übung zum [Download](https://www.topikguide.com/complete-topik-practice-test-online/).
 
 ## Programme und Tools
 
@@ -25,7 +30,7 @@ sidebar: false
 
 ## Bücher
 
--   [O-Rauch, Sang-Yi (2017): _Praktische Grammatik der koreanischen Sprache_. Hamburg: Buske.](https://www.amazon.de/Praktische-Grammatik-koreanischen-Sprache-Sang-Yi/dp/3875487095)
+-   [O-Rauch, Sang-Yi (2017): _Praktische Grammatik der koreanischen Sprache_. Hamburg: Buske.](https://www.amazon.de/dp/3875487095)
 
 ---
 
