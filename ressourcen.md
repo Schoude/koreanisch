@@ -23,6 +23,10 @@ sidebar: false
 
 -   [(Web)App zur Konjugation von Verben — Dongsa 동사](https://koreanverb.app)
 
+## Bücher
+
+-   [O-Rauch, Sang-Yi (2017): _Praktische Grammatik der koreanischen Sprache_. Hamburg: Buske.](https://www.amazon.de/Praktische-Grammatik-koreanischen-Sprache-Sang-Yi/dp/3875487095)
+
 ---
 
 ::: danger DISCLAIMER
