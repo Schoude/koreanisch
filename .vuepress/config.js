@@ -11,18 +11,18 @@ module.exports = {
 			},
 			{
 				text: 'Kategorien',
-				link: '/kategorien/',
 				items: [
 					{
-						text: 'Abfolgende Handlungen',
-						link: '/abfolgende-handlungen'
+						text: 'Kategorie 1',
+						link: '/kategorien/kat1'
 					},
 					{
-						text: 'Tempi',
-						items: [
-							{ text: 'Präsens', link: '/tempi/präsens' },
-							{ text: 'Präteritum', link: '/tempi/präteritum' }
-						]
+						text: 'Kategorie 2',
+						link: '/kategorien/kat2'
+					},
+					{
+						text: 'Kategorie 3',
+						link: '/kategorien/kat3'
 					}
 				]
 			},
@@ -33,8 +33,9 @@ module.exports = {
 		],
 		/* 'auto' */
 
-		sidebar: {
-			'/kategorien/': ['', 'präsens', 'präteritum']
-		}
+		sidebar: 'auto'
+		// {
+		// 	'/kategorien/': ['', 'kat1', 'präteritum']
+		// }
 	}
 }
