@@ -264,7 +264,7 @@ Ich denke, dass sie älter ist als du.
 
 ---
 
-## 동사+도록 하다 (Anordnung/Warnung/(Er)Mahnung/Verbot)
+## 동사+도록 하다 (Anordnung/Warnung/ (Er)Mahnung/Verbot)
 
 ::: tip Erklärung
 benutzt man als Warnung auf bestimmte Handlungen. ABER auch als Befehl/Anordnung oder Vorschlag verwendbar.
