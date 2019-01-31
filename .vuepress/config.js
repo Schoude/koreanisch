@@ -1,5 +1,5 @@
 module.exports = {
-	title: 'Koreanische Grammatikstrukturen',
+	title: 'Koreanische Grammatik',
 	description:
 		'Eine (derzeit) lose Zusammenstellung an koreanischer Grammatik mit Beispielsätzen.',
 	themeConfig: {
