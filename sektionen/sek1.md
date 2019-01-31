@@ -21,7 +21,7 @@ Er hat zu mir gesagt ich soll nett zu dir sein.
 엄마가 방을 청소하래요. (청소하라고 해요)  
 Mama hat gesagt, du sollst das Zimmer aufräumen.
 
-엄마가 나에게 문을 잘 잠드고 가래. (문을 잘 잠드고 가라고 했어)  
+엄마가 나에게 문을 잘 잠그고 가래. (문을 잘 잠그고 가라고 했어)  
 Meiner Mutter hat zu mir gesagt, dass ich die Tür abschließen und gehen soll.
 
 _**~자고 하다 = indirekte Aufforderung ~재(요).**_
