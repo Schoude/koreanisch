@@ -1,6 +1,5 @@
 ---
 home: true
-heroImage: /Logov2.png
 heroText:
 tagline:
 actionText: Zur Kategorieauswahl →
