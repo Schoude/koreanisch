@@ -18,7 +18,7 @@ Wollen Sie Ihren Master in einem speziellen Fach machen?
 언제 한국에 **오셨나요**?  
 Wann sind Sie nach Korea gekommen?
 
-직장에서 일할 때 무엇이 가장 **어려운가요**? (상태 동사)  
+직장에서 일할 때 무엇이 가장 **어려운가요**? _(상태 동사)_
 Was empfinden Sie an Ihrem Arbeitsplatz am anspruchsvollsten?
 
 우리 회사에 지원한 동기는 **무엇인가요**?  
