@@ -32,6 +32,10 @@ module.exports = {
 					{
 						text: 'Sektion 4',
 						link: '/sektionen/sek4'
+					},
+					{
+						text: 'Sektion 5',
+						link: '/sektionen/sek5'
 					}
 				]
 			},

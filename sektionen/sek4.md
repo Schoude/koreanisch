@@ -1,5 +1,5 @@
 ---
-pageClass: sek3
+pageClass: sek4
 ---
 
 # Sektion 4

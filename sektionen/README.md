@@ -26,5 +26,10 @@ Inhalt folgt...
 
 ## [Sektion 4](/sektionen/sek4.html)
 
-Hier werden die Erklärungen zur Grammatik in Sektion 3 aufgelistet.  
+Hier werden die Erklärungen zur Grammatik in Sektion 4 aufgelistet.  
+Inhalt folgt...
+
+## [Sektion 5](/sektionen/sek5.html)
+
+Hier werden die Erklärungen zur Grammatik in Sektion 5 aufgelistet.  
 Inhalt folgt...
