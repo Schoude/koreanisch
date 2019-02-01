@@ -36,6 +36,10 @@ module.exports = {
 					{
 						text: 'Sektion 5',
 						link: '/sektionen/sek5'
+					},
+					{
+						text: 'Sektion 6',
+						link: '/sektionen/sek6'
 					}
 				]
 			},
