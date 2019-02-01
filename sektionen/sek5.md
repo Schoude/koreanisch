@@ -152,7 +152,7 @@ Wenn ich keine Navigation gehabt hätte, hätte ich den Weg nicht gefunden.
 
 _Wird häufig im Zusammenhang der Erleichterung mit ~을 뻔하다 verwendet._
 
-그 차를 탔더라면 죽을 뻔했어요.
+그 차를 **탔더라면** 죽을 뻔했어요.
 Falls wir mit diesem Auto gefahren wären, wären wir jetzt tot.
 
 _Kann oft auch zu 았/었으면 oder ~아/어야 했는데vereinfacht werden._
