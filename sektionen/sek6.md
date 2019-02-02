@@ -170,7 +170,7 @@ Ich habe meine Wäsche gewaschen und hänge sie jetzt auf.
 돈을 빨리 **모아 가지고** 자동차를 사고 샆어요.  
 Ich möchte schnell Geld sparen und dann ein Auto kaufen.
 
-등산갈 때 제가 집애서 김밥을 **만들어 가지고** 갈게요.  
+등산갈 때 제가 집에서 김밥을 **만들어 가지고** 갈게요.  
 Wenn wir Wandern gehen, bereite ich zu Hause etwas Kimbap vor und nehme ihn dann mit.
 
 할아버지께서 순자들을 **불러 가지고** 용돈을 주셨어요.  

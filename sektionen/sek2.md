@@ -61,7 +61,7 @@ Ich habe letzten Monat reserviert, da ich dachte, dass es keine Flugtickets mehr
 benutzt man bei Vermutungen für die Zukunft (…, denn…)
 :::
 
-좀 여휴가 생기면 자주 **열락할 테니까** 너무 걱정하지 마세요.  
+좀 여유가 생기면 자주 **열락할 테니까** 너무 걱정하지 마세요.  
 Machen Sie sich keine Sorgen, denn wenn er ein wenig Freizeit bekommt wird er sich sicher oft melden.
 
 유진 씨는 잘 **지낼 테니까** 걱정하지 마세요.  

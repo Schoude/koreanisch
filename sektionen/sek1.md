@@ -134,7 +134,7 @@ benutzt man, wenn man überrascht von etwas ist (innerhalb des Satzes)
 Ist es nicht komisch, dass hier so viele Autos sind?
 
 스프가 **맵다니** 맛없어요.  
-Du Suppe ist ja so scharf, dass sie gar nicht gut schmeckt.
+Die Suppe ist ja so scharf, dass sie gar nicht gut schmeckt.
 
 _**MIT NOMEN:** 명사(이)+라니_  
 우승**이라니** (überrascht, dass sie der Champion sind)
@@ -313,7 +313,7 @@ Ich kann mich nicht alleine anziehe. Meine Mutter zieht mich an.
 
 **_KOMBINATION mit 동사+게 하이다_**
 
-니는 남동생에게 감기약을 **먹게 하였다**.  
+나는 남동생에게 감기약을 **먹게 하였다**.  
 Ich habe meinem kleinen Bruder Erkältungsmedizin verabreicht.
 
 ## 동사+느라(고)
