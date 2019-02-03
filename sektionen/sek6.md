@@ -217,3 +217,36 @@ Ich werde nach Draußen gehen, sobald ich das Paket bekommen habe.
 Seit ich einen koreanischen Freund habe, ist meine Koreanisch viel besser geworden.
 
 ---
+
+## V+고 보니(까)
+
+::: tip Erklärung
+wird verwendet, wenn der Sprecher etwas Neues erfahren hat, neue Informationen entdeckt hat oder etwas entgegen seiner Erwartungen geschehen ist. Kann nur mit Verben verwendet werden.
+:::
+
+처음에는 누군지 몰랐는데 **만나고 보니** 초등학교 동창이었어요.  
+Zuerst wusste ich nicht wer er ist, aber als ich ihn getroffen haben, war es mein alter Schulfreund.
+
+지하철에서 **내리고 보니** 가방이 없더라고요.  
+Als ich aus der U-Bahn ausgestiegen bin, habe ich bemerkt, dass meine Tasche weg ist.
+
+옷을 **사고 보니** 작년 상품이었어요.  
+Nachdem ich die Kleidung gekauft hatte, habe ich bemerkt, dass sie aus dem letzten Jahr war.
+
+**신고 보니** 동생의 신발이었어요.  
+Nachdem ich die Schuhe angezogen habe, habe ich bemerkt, dass es die von meinem Bruder waren.
+
+버스를 **타고 보니까** 반대 방향으로 가는 것이었어요.  
+Nachdem ich in den Bus eingestiegen bin, habe ich bemerkt, dass er in die falsche Richtung fährt.
+
+_상태 동사 wie 많다 müssen konjugiert+지다 werden -> 많아지고 보니:_
+
+돈이 없을 때는 몰랐는데 돈이 **많아지고 보니** 도 외롭다는 생각이 들었어요.  
+Als ich kein Geld hatte wusste ich es nicht, aber als ich zu mehr Geld kam, dachte ich, dass man einsamer wird.
+
+_Nomen können mit ‚zu XY werden‘ verändert werden: 모모가 된다_
+
+**배우가 되고 보니** 배우들의 삶이 생각만큼 좋자 않다는 것 알게 되었어요.  
+Nachdem ich ein Schauspieler geworden bin, habe ich gemerkt, dass ihr Leben nicht so gut ist wie man denkt.
+
+---
