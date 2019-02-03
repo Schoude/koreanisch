@@ -220,7 +220,7 @@ benutzt man wie „zu dem PRONOMEN immer VERB seid“ / Handlung/Situation in de
 그때 자주 **가던** 서점은 지금도 있어요?  
 Gibt es die Buchhandlung, zu der ihr immer gegangen seid, auch heute noch?
 
-그건 제가 예전애 자주 **먹던** 음식이에요.  
+그건 제가 예전에 자주 **먹던** 음식이에요.  
 Das ist das Gericht, welches ich zuvor oft gegessen habe.
 
 제가 **다니던** 초등학교가 지금은 없어져서 아쉬워요.  
