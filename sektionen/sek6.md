@@ -254,26 +254,26 @@ Nachdem ich ein Schauspieler geworden bin, habe ich gemerkt, dass ihr Leben nich
 ## ~다 보니
 
 ::: tip Erklärung
-sehr vergleichbar mit N~고 보니(까), hat aber einen groesseren Fokus die Unmittelbarkeit der Folgehandlung. Im zweiten Satzteil steht das Resultat einer unmittelbar zuvor stattgefundenden Handlung. Der ‚다‘-Teil ist ein Kuzform von ~다가 (andauernde Handlung).
+sehr vergleichbar mit N~고 보니(까), hat aber einen größeren Fokus die Unmittelbarkeit der Folgehandlung. Im zweiten Satzteil steht das Resultat einer unmittelbar zuvor stattgefundenen Handlung. Der ‚다‘-Teil ist ein Kurzform von ~다가 (andauernde Handlung).
 :::
 
 혼자 **살다 보니** 집 정리를 잘 안 하게 돼요.  
-Seit ich alleine wohne komme ich nicht mehr zum Aufraeumen.
+Seit ich alleine wohne komme ich nicht mehr zum Aufräumen.
 
 처음엔 싫어했는데 매일 같이 **일하다 보니** 양강 씨의 좋은 점이 보이더라고요.  
-Zuerst mochte ich sie nicht, aber nachdem wir eine Zeit lang miteinander gearbeitet haben, habe ich 양강s Staerken gesehen.
+Zuerst mochte ich sie nicht, aber nachdem wir eine Zeit lang miteinander gearbeitet haben, habe ich 양강s Stärken gesehen.
 
 선생님의 설명를 **듣다 보니** 이해가 되었어요.  
-Waehrend ich der Erklaerung des Lehrers zugehoert habe, habe ich es verstanden.
+Während ich der Erklärung des Lehrers zugehört habe, habe ich es verstanden.
 
 자꾸 **먹다 보니** 이젠 매운 음식도 잘 먹게 되었어요.  
-Nachdem ich staendig scharfes Essen gegessen habe, macht es mir jetzt nichts mehr aus.
+Nachdem ich ständig scharfes Essen gegessen habe, macht es mir jetzt nichts mehr aus.
 
 오랜만에 만난 친구랑 **이야기하다 보니** 어느새 12시가 넘었더라고요.  
 Ich habe mich lange mit meinem Freund geredet, den ich lange nicht mehr gesehen habe, sodass wir nicht gemerkt haben, dass es bereits nach 12 Uhr war.
 
 경제 신문을 매일 **읽다가 보니까** 자연스럽게 경제에 대해 잘 알게 되었어요.  
-Nachdem ich jeden Tag die Wirtschaftszeitung gelesen habe, bin ich auf natuerliche Art und Weise vertrauter mit
+Nachdem ich jeden Tag die Wirtschaftszeitung gelesen habe, bin ich auf natürliche Art und Weise vertrauter mit
 Wirtschaftsthemen geworden.
 
 ---
