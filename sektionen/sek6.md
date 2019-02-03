@@ -221,7 +221,7 @@ Seit ich einen koreanischen Freund habe, ist meine Koreanisch viel besser geword
 ## V+고 보니(까)
 
 ::: tip Erklärung
-wird verwendet, wenn der Sprecher etwas Neues erfahren hat, neue Informationen entdeckt hat oder etwas entgegen seiner Erwartungen geschehen ist. Kann nur mit Verben verwendet werden.
+wird verwendet, wenn der Sprecher etwas Neues erfahren hat, neue Informationen entdeckt hat oder etwas entgegen seiner Erwartungen geschehen ist. Die Handlung im ersten Satzteil ist abgeschlossen. Kann nur mit Verben verwendet werden.
 :::
 
 처음에는 누군지 몰랐는데 **만나고 보니** 초등학교 동창이었어요.  
