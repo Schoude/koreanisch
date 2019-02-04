@@ -137,7 +137,7 @@ Solange du es aufwärmst, wirst du es essen können.
 ## ~다 보면 (andauernde Handlung beeinflusst Resultat der folgenden)
 
 ::: tip Erklärung
-Wird verwendet, wenn die Chance besteht – aber noch keine Verwirklichung – die nachfolgende Handlung durchzuführen.
+Wird verwendet, wenn die Chance besteht – aber noch keine Verwirklichung – die nachfolgende Handlung durchzuführen. Kann nur im Präsens stehen und der nachfolgende Satz nicht in der Vergangenheit.
 :::
 
 계속 **공부하다 보면** 잘하게 돨 거예요.  
@@ -150,6 +150,9 @@ _Wird oft gefolgt von den Phrasen ~을 수 있다, ~게 될 거예요 und ~겠._
 
 싫어하는 음식도 **자주 먹다 보면** 좋아하게 될 거예요.
 Wenn man ein Gericht, dass mit nicht mag, andauernd ist, gewöhnt man sich irgendwann daran.
+
+아이들이 **놀다 보면** 우리창을 깰 수고 있지요.
+Wenn Kinder miteinander spielen kommt es schon einmal vor, dass ein Fenster zu Bruch geht.
 
 _Vergleich mit ~다 보니(까):_
 
