@@ -148,7 +148,7 @@ Wenn man miteinander spielt, kann man auch einmal miteinander streiten.
 
 _Wird oft gefolgt von den Phrasen ~을 수 있다, ~게 될 거예요 und ~겠._
 
-싫어하는 음식도 **나주 먹다 보면** 좋아하게 될 거예요.
+싫어하는 음식도 **자주 먹다 보면** 좋아하게 될 거예요.
 Wenn man ein Gericht, dass mit nicht mag, andauernd ist, gewöhnt man sich irgendwann daran.
 
 _Vergleich mit ~다 보니(까):_
