@@ -103,6 +103,35 @@ Ich bin bei laufendem Fernseher eingeschlafen.
 
 --
 
+## ~아/어 두다 (sehr vergleichbar mit ~아/어 놓다)
+
+::: tip Erklärung
+Wird häufig im Zusammenhang mit ‚etw. verwaren‘, ‚etwas sparen‘ verwendet und deckt einen längeren Zeitraum ab. Kann auch als Adjektiv verwendet werden. 모모해 둔
+:::
+
+더우니까 그냥 **열어 두세요**.  
+Lass das Fenster einfach auf, weil es so heiß ist.
+
+그동안 은행에 **저축해 둔** 돈으로 샀어요.  
+Ich habe es mit meinem in der Zwischenzeit angesparten Geld gekauft.
+
+서람 안에 중요한 것이 많아서 항상 **잠가 둡니다**.  
+Weil in meiner Schublade viele wichtige Sachen sind, schließe ich sie immer ab.
+
+동창들의 전화번호를 **적어 둔** 수첩을 잃어버렸어요.  
+Ich habe meinen Notizblock verloren, in dem ich die Telefonnummern meiner Klassenkameraden aufgeschrieben habe.
+
+**차를 세워 둔** 곳이 어디에요.  
+Wo hast du dein Auto abgestellt?
+
+미리 밥을 **먹어 두려고** 해요.  
+Ich werde (heute) früher zu Mittag essen.
+
+발표할 때 실수하지 않으려면 **연습을 많이 해 두세요**.  
+Wenn du bei Vorträgen wenig Fehler machen möchtest, solltest du viel üben.
+
+---
+
 ## ~기만 하면 (solange X, dann; wann immer X)
 
 ::: tip Erklärung
