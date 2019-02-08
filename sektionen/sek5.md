@@ -101,7 +101,7 @@ Ich bin bei offener Tür eingeschlafen.
 텔레비전을 **켜 둔 채** 잠이 들었다.  
 Ich bin bei laufendem Fernseher eingeschlafen.
 
---
+---
 
 ## ~아/어 두다 (sehr vergleichbar mit ~아/어 놓다)
 
