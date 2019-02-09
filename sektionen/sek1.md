@@ -243,6 +243,12 @@ Wenn man einen Monat nur Hamburger isst, nimmt man viel zu, oder?
 컴퓨터가 **없다면** 이 세상이 어떻게 될까?  
 Was würde aus der Welt werden, wenn es keine Computer gäbe?
 
+복권에 **당첨된다면** 멋진 자동차를 사고 싶어요.
+Wenn ich in der Lotterie gewinnen würde, würde ich mir ein cooles Auto kaufen.
+
+제가 한국에 **오지 않았다면** 당신을 만나지 못했을 거예요.
+Wäre ich nicht nach Korea gekommen, hätte ich dich niemals getroffen.
+
 ---
 
 ## 동사+(으)ㄹ 텐데
