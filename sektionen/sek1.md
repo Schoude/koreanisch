@@ -249,6 +249,36 @@ Wenn ich in der Lotterie gewinnen würde, würde ich mir ein cooles Auto kaufen.
 제가 한국에 **오지 않았다면** 당신을 만나지 못했을 거예요.
 Wäre ich nicht nach Korea gekommen, hätte ich dich niemals getroffen.
 
+내가 **부자라면** 가난한 사람들을 도와줄 수 있을 텐데...
+Wenn ich reich wäre, könnte ich armen Menschen helfen...
+
+---
+
+## 동사+았/었더라면
+
+::: tip Erklärung
+Benutzt man ähnlich zum deutschen Konjunktiv in der Vergangenheitsform. _Hätte ich X gemacht,... könnte ich ..._
+Wird im nachfolgenden Satzteil oft mit ~았/었을 거예요, ~았/었을 텐데 oder ~(으)ㄹ 뻔했다 verbunden.
+:::
+
+표가 미리 **예매했더라면** 공연을 볼 수 있었을 거예요.  
+Hätte ich die Ticktes früher gekauft, hätten wir dei Vorstellung jetzt sehen können.
+
+생일인 줄 **알았더라면** 선물을 준비했을 텐다요...  
+Hätte ich gewusst, dass heute dein Geburtstag ist, hätte ich ein Geschenk vorbereitet.
+
+제가 키가 **컸더라면** 모델이 되었을 거예요.  
+Ich wäre Model gewordem, wenn ich größer wäre.
+
+아침에 일기예보를 **들었더라면** 산에 가지 않았을 텐데...  
+Hätte ich am Morgen den Wetterbericht gehört, wäre ich nicht wandern gegangen.
+
+연습을 많이 **했더라면** 실수하지 않았을 텐데 아쉬워요.  
+Es ist schade, denn hätte er mehr gelernt, hätte er weniger Fehler machen können
+
+환경 단체들이 **노력히지 않았더라면** 강이 이렇게 깨끗해지지 않았을 거예요.  
+Hätten sich die Umweltgruppen nicht so stark angestrengt, wäre der Fluss nicht so sauber geworden.
+
 ---
 
 ## 동사+(으)ㄹ 텐데
