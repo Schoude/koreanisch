@@ -303,3 +303,29 @@ Mein Freund spricht ständig stolz ueber seine Familie.
 Sie mögen eine Frau mit angenehmem/freundlichem Gesicht.
 
 ---
+
+## N+답다
+
+::: tip Erklärung
+Das Subjekt wird mit den Eigenschaften des Nomens vor 답다 in Verbindung gebracht und hat diese oder nicht. A ist/verhält sich wie ein B.
+:::
+
+오늘 경기 모습은 세계적인 축구 **선수답지가 않네요.**  
+Heute war seine Leistung im Spiel nicht wie ein Weltklassespieler.1
+
+학생은 **학생답게** 옷을 압어야지.  
+Ein Schüler muss sich wie ein Schüler anziehen.
+
+혜진 씨는 **여자다운 데가** 하나도 없는 것 같아요.  
+혜진 hat wirkliche keine Qualitäten einer Frau.
+
+동생에게 그렇게 심한 말을 하는 것은 정말 **형답지 않은** 행동이야.  
+So unfreundlich mit deinem kleinen Bruder zu sprechen, wird einem großen Bruder nicht gerecht.
+
+그 회사에는 **국내 최고의 회사답게** 우수한 직원들이 많이 있습니다.  
+In dieser Firma gibt es viele exzellente Mitarbeiter, wie es für eine nationale Spitzenfirma ist typisch.
+
+유명한 커피숍답게 모든 커피가 **맛있더라고요**.  
+Jeder Kaffee schmeckt in wie im einem berühmten Café.
+
+---
