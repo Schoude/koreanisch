@@ -278,28 +278,28 @@ Wirtschaftsthemen geworden.
 
 ---
 
-## 스럽다 
+## 스럽다
 
 ::: tip Erklärung
 sein wie ein Nomen; abverbischer Gebrauch
 :::
 
-조금 여성스러워 보이고 싶어서요. 그동안 바지만 입었더니 사람들이 저를 남자로 알더라고요.  
+조금 **여성스러워** 보이고 싶어서요. 그동안 바지만 입었더니 사람들이 저를 남자로 알더라고요.  
 Weil ich etwas femininer/weiblicher aussehen moechte. In letzter Zeit habe ich oft Hosen getragen und die Leute haben mich fuer einen Mann gehalten.
 
-올해는 한국 사람들과 한국어로 자연스럽게 아야기를 할 수 있게 되면 좋겠어요.  
-Es waere schoen, wenn ich dieses Jahr mit Koreanern natuerlich auf Koreanisch sprechen kann.
+올해는 한국 사람들과 한국어로 **자연스럽게** 아야기를 할 수 있게 되면 좋겠어요.  
+Es waere schön, wenn ich dieses Jahr mit Koreanern natürlich auf Koreanisch sprechen kann.
 
-마이클 씨는 여자 친구의 얼굴은 사랑스럽다는 듯이 바라보았습니다.  
+마이클 씨는 여자 친구의 얼굴은 **사랑스럽다는 듯이** 바라보았습니다.  
 Michael hat seine Freundin auf liebe Art und Weise angeschaut.
 
-그렇게 하는 것이 바보스러운 행동입니다.  
+그렇게 하는 것이 **바보스러운** 행동입니다.  
 Solch ein Verhalten ist idiotisch.
 
-제 친구는 언제나 가족에 대해 자랑스럽게 말해요.  
-Mein Freund spricht staendig stolz ueber seine Familie.
+제 친구는 언제나 가족에 대해 **자랑스럽게** 말해요.  
+Mein Freund spricht ständig stolz ueber seine Familie.
 
-얼굴이 복스러운 여자를 좋아하세요.  
-Sie moegen eine Frau mit angenehmem/freundlichem Gesicht.
+얼굴이 **복스러운** 여자를 좋아하세요.  
+Sie mögen eine Frau mit angenehmem/freundlichem Gesicht.
 
 ---
