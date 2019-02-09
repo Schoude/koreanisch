@@ -281,14 +281,14 @@ Wirtschaftsthemen geworden.
 ## 스럽다
 
 ::: tip Erklärung
-sein wie ein Nomen; abverbialer Gebrauch
+sein wie ein Nomen; adverbialer Gebrauch
 :::
 
 조금 **여성스러워** 보이고 싶어서요. 그동안 바지만 입었더니 사람들이 저를 남자로 알더라고요.  
-Weil ich etwas femininer/weiblicher aussehen moechte. In letzter Zeit habe ich oft Hosen getragen und die Leute haben mich fuer einen Mann gehalten.
+Weil ich etwas femininer/weiblicher aussehen möchte. In letzter Zeit habe ich oft Hosen getragen und die Leute haben mich für einen Mann gehalten.
 
 올해는 한국 사람들과 한국어로 **자연스럽게** 아야기를 할 수 있게 되면 좋겠어요.  
-Es waere schön, wenn ich dieses Jahr mit Koreanern natürlich auf Koreanisch sprechen kann.
+Es wäre schön, wenn ich dieses Jahr mit Koreanern natürlich auf Koreanisch sprechen kann.
 
 마이클 씨는 여자 친구의 얼굴은 **사랑스럽다는 듯이** 바라보았습니다.  
 Michael hat seine Freundin auf liebe Art und Weise angeschaut.
