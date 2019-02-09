@@ -281,7 +281,7 @@ Wirtschaftsthemen geworden.
 ## 스럽다
 
 ::: tip Erklärung
-sein wie ein Nomen; abverbischer Gebrauch
+sein wie ein Nomen; abverbialer Gebrauch
 :::
 
 조금 **여성스러워** 보이고 싶어서요. 그동안 바지만 입었더니 사람들이 저를 남자로 알더라고요.  
