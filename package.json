@@ -16,6 +16,6 @@
 		"url": "https://github.com/Schoude/koreanisch-grammatik/issues"
 	},
 	"dependencies": {
-		"vuepress": "^0.14.8"
+		"vuepress": "^1.9.7"
 	}
 }
